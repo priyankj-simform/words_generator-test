@@ -4,3 +4,10 @@ line from feature branch 2
 line from feature branch 3
 line from feature branch 4
 line from feature branch 5
+
+//commit2
+line from feature branch 6
+line from feature branch 7
+line from feature branch 8
+line from feature branch 9
+line from feature branch 10
