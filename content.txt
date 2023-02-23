@@ -1,0 +1,6 @@
+//commit1
+line from feature branch 1
+line from feature branch 2
+line from feature branch 3
+line from feature branch 4
+line from feature branch 5
